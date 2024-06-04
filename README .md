@@ -1,5 +1,5 @@
 
-# GNNModel7
+# GNNModel
 
 This repository contains the implementation of a Graph Neural Network (GNN) using PyTorch and PyTorch Geometric for analyzing and predicting data. The program processes data from a provided database and trains a GNN model on it.
 
