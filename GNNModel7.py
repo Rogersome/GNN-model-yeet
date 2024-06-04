@@ -18,7 +18,7 @@ import matplotlib.pyplot as plt
 
 # Step 3: Load and Prepare Data
 # Load and preprocess the dataset from the provided path
-zip_file_path = 'D:/Jeff/GP/Cleaned-20240412T013610Z-001.zip'
+zip_file_path = 'Cleaned-20240412T013610Z-001.zip'
 
 # Extract the zip file
 extracted_folder_path = 'D:/Jeff/GP/Cleaned_Data'
